@@ -10,6 +10,11 @@ client = Client(account_sid, auth_token)
 
 messages = client.messages.list(limit=20)
 
+f = open("msgs.txt", "w")
+
 for record in messages:
     print(record.body)
+    f.write(record.body + "\n")
+
+f.close()
     

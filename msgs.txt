@@ -1,0 +1,18 @@
+Sent from your Twilio trial account - Hello, This is Abhishek, sending message from Twillio API using Python
+Sent from your Twilio trial account - Hello, This is ABhishek Patel, sending message from Twillio using Python!
+Sent from your Twilio trial account - Hi, This is Abhishek Patel. Sending message from Thunder Client and Twillio.
+Sent from your Twilio trial account - Hi, This is Abhishek Patel.
+Sent from Postman, Twillio.
+Sent from your Twilio trial account - Hi, This is Abhishek Patel.
+Sent from Postman
+https://p.twil.io/ZGCjy6dv7P
+Sent from your Twilio trial account - This is Abhishek sending message from Twillio using Restfox. Used environment for ID and Token. Thanks
+Sent from your Twilio trial account - This is Abhishek sending message from Twillio using Restfox. Please do not reply. Thanks
+Sent from your Twilio trial account - Hi, This is Abhishek Patel, sending message from Twillio using curl. Do not reply to message. It is for testing purposes. Thank you.
+Hi, Im sending this message from Twillio using curl.  Dont reply. Thanks.
+Hi, Im sending this message from Twillio using curl.  Dont reply. Thanks.
+Hi, Im sending this message from Twillio using curl.  Dont reply. Thanks.
+Hi, Im
+Hi, Im
+Thanks for the message. Configure your number's SMS URL to change this message.Reply HELP for help.Reply STOP to unsubscribe.Msg&Data rates may apply.
+Sent from your Twilio trial account - Hello from Twilio, it is Abhishek Patel. Learning APIs. This is testing message.
